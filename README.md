@@ -42,7 +42,7 @@ This repository is a work in progress, and contributions are always welcome! If 
 - **Create a branch for your changes**
 - **Submit a pull request**
 
-Together, we can make this a valuable resource for the cybersecurity community. Feel free to reach out for feedback, suggestions, or collaboration ideas. Let’s build a stronger, more skilled cybersecurity community!
+Feel free to reach out for feedback, suggestions, or collaboration ideas. Let’s build a stronger, more skilled cybersecurity community!
 
 
 
